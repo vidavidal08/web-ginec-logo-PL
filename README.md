@@ -1,0 +1,1 @@
+# web-ginec-logo-PL
