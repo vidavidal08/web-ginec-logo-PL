@@ -94,7 +94,7 @@ include("header.php");
 								data-paddingbottom="[10,10,10,10]"
 								data-paddingleft="[20,20,20,20]"
 
-								style="z-index: 7; white-space: nowrap;text-transform:left;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Talk To Us</div>
+								style="z-index: 7; white-space: nowrap;text-transform:left;outline:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Talk To Us</div>
 						</div>
 						<div class="tp-bannertimer tp-bottom" style="height: 7px; background-color: rgba(0, 0, 0, 0.25);"></div>	
 					</div>
@@ -236,52 +236,6 @@ include("header.php");
             
         </section>
 		
-		<section id="appointment" class="section-ptb-150" data-jarallax='{"speed": 0.0}' style="background-image: url(images/app-bg.jpg);">
-            <div class="container">
-				<div class="row">
-					<div class="col-md-6 col-12">
-						<div class="section-heading text-left mb-50">
-							<h1 class="heading">Fix an Appointment</h1>
-						</div>
-						
-						<form class="mt-30" action="" id="contact" name="contact" method="post">
-							<div class="contact-form app-form form-border clearfix">
-								<div class="form-field">
-									<input type="text" class="form-control" name="InputName" id="InputName" placeholder="Your Name" required>
-								</div>
-								<div class="form-field">
-									<input type="email" class="form-control" name="InputEmail" id="InputEmail" placeholder="Your Email" required>
-								</div>
-								<div class="form-field">
-									<input type="text" class="form-control" name="InputPhone" id="InputPhone" placeholder="Phone Number" required>
-								</div>
-								<div class="form-field clearfix">
-									<select class="wide">
-										<option value="2">Type of Service</option>
-										<option value="1" >Some option</option>
-										<option valur="3">Another option</option>
-										<option value="4">An option</option>
-										<option value="5">Potato</option>
-									</select>
-								</div>
-								<div class="form-field">
-									<input type="date" class="form-control" id='datetimepicker1' placeholder="Select Date" />
-								</div>
-								<div class="form-field">
-									<input type="time" class="form-control" id='datetimepicker1' placeholder="Select Time" />
-								</div>
-								<div class="form-field w-100">
-									<button name="submit" type="submit" class="cs-button"> Check Availability </button>
-								</div>
-							</div>
-						</form>
-						
-						
-					</div>
-				</div>	
-				
-            </div>
-        </section>
 		
 		<section id="testimonials" class="section-ptb-80">
             <div class="container">

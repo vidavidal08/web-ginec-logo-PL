@@ -64,16 +64,15 @@
 					  <ul class="list-inline d-md-flex">
 						<li><a href="https://www.facebook.com/dr.perezlunagineco/"  target="_blank"><span class="ti-facebook"></span></a></li>
 						<li><a href="https://instagram.com/dr.perezlunagineco?utm_medium=copy_link" target="_blank"><span class="ti-instagram"></span></a></li>
-						<li><a href="#"><span class="ti-linkedin"></span></a></li>
-						<li><a href="#"><span class="ti-dribbble"></span></a></li>
+						<li><a href="https://www.doctoralia.com.mx/enrique-perez-luna-2/ginecologo/veracruz" target="_blank"><span class="ti-dribbble"></span></a></li>
 					  </ul>
 					</div>
 				  </div>
 				  <div class="col-lg-6 col-md-6 col-12 xs-mb-10">
 					<div class="topbar-call text-center text-md-right">
 					  <ul class="list-inline d-md-flex d-inline-block justify-content-end">
-						<li><i class="fa fa-envelope"></i>info@pregnancycare.com</li>
-						 <li><i class="fa fa-phone"></i> <a href="tel:+1234567890"> <span>+(123) 456-7890 </span> </a> </li>
+						<li><i class="fa fa-envelope"></i>enriquepluna57@gmail.com</li>
+						 <li><i class="fa fa-phone"></i> <a href="tel:+1234567890"> <span>52 + 229 15 53 551 </span> </a> </li>
 					  </ul>
 					</div>
 				  </div>
@@ -83,7 +82,7 @@
 			
 	<nav hidden class="nav-white header-fancy">
 				<div class="nav-header">
-					<a href="index.html" class="brand">
+					<a href="index.php" class="brand">
 						<img src="images/fotos_material/bonitas/membrete_rectangular.jpeg" class="img-fluid" alt="" style="width: 65%;"/>
 					</a>
 					<button class="toggle-bar">
@@ -109,46 +108,16 @@
                   </li>
                     
                     
-       <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                      Servicios
-                    </a>
-                
-                  <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                      <a class="dropdown-item" href="#">Check Up Ginecológico
-                        
-                        </a>
-                      <a class="dropdown-item" href="#">Colposcopia</a>
-<!--                      <a class="dropdown-item" href="#">Papanicolaou</a>
-                      <a class="dropdown-item" href="#">Ultrasonido Pelvico</a>
-                      <a class="dropdown-item" href="#">Consulta Obstetrica</a>-->
-                      <a class="dropdown-item" href="#">Consulta Obstetrica Prenatal</a>
-<!--                      <a class="dropdown-item" href="#">Ultrasonido 3D y 4D</a>
-                      <a class="dropdown-item" href="#">Fotos Digitales y Video</a>
-                      <a class="dropdown-item" href="#">Consulta</a>-->
-                       <a class="dropdown-item" href="#" >Parto Respetado y <br> Humanizado</a>
-                       <a class="dropdown-item" href="#">Cesaria Humanizada </a>
-                        <a class="dropdown-item" href="#">Paquetes de maternidad</a>
-                       <a class="dropdown-item" href="#">Cirugía Ginecológica</a>
-                      <a class="dropdown-item" href="#">Legrado uterino</a>
-                    </div>
-            </li>   
+       
                    
                     
-               <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                     Blog
+               <li class="nav-item ">
+                    <a class="nav-link " href="#" id="navbarDropdownMenuLink"  aria-haspopup="true" aria-expanded="false">
+                     Servicios
                     </a>
-                 
-                  </li>
+                </li>
                     
-                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                     Contacto
-                    </a>
-                 
-                  </li>
-                    
+
                     
          <!--   <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -169,9 +138,8 @@
                     
                 </ul>
 
-				<ul class="attributes">
-					<li><a href="#" class="toggle-search-fullscreen"><span class="ti-search"></span></a></li>					
-				</ul>				
+			
+				
 				<div class="wrap-search-fullscreen">
 					<button class="close-search"><span class="ti-close"></span></button>
 					<input type="text" placeholder="Search..." />
