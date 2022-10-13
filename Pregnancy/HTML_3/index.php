@@ -45,7 +45,7 @@ include("header.php");
 								data-paddingbottom="[0,0,0,0]"
 								data-paddingleft="[0,0,0,0]"
 
-								style="z-index: 5; white-space: nowrap;text-transform:left; color: #470521;">Feel Safe with <br> Mom’s Care</div>
+								style="z-index: 5; white-space: nowrap;text-transform:left; color: #470521;"></div>
 
 							<!-- LAYER NR. 2 -->
 							<div class="tp-caption Travel-SmallCaption   tp-resizeme tp-static-layer" 
@@ -70,7 +70,7 @@ include("header.php");
 								data-paddingbottom="[0,0,0,0]"
 								data-paddingleft="[0,0,0,0]"
 
-								style="z-index: 6; white-space: nowrap;text-transform:left; color: #222222;">The best Care in the Pregnancy Industry </div>
+								style="z-index: 6; white-space: nowrap;text-transform:left; color: #222222;"> </div>
 
 							<!-- LAYER NR. 3 -->
 							<div class="tp-caption Travel-CallToAction cs-button x-small  tp-static-layer" 
@@ -94,7 +94,19 @@ include("header.php");
 								data-paddingbottom="[10,10,10,10]"
 								data-paddingleft="[20,20,20,20]"
 
-								style="z-index: 7; white-space: nowrap;text-transform:left;outline:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Talk To Us</div>
+								style="
+                                z-index: 7; 
+                                white-space: nowrap;
+                                text-transform:left;
+                                outline:none;
+                                box-sizing:border-box;
+                                -moz-box-sizing:border-box;
+                                -webkit-box-sizing:border-box;
+                                cursor:pointer;
+                                background-color : #344687;
+                                border-color:white;
+                                color:white;
+                                ">Servicios</div>
 						</div>
 						<div class="tp-bannertimer tp-bottom" style="height: 7px; background-color: rgba(0, 0, 0, 0.25);"></div>	
 					</div>
@@ -237,45 +249,7 @@ include("header.php");
         </section>
 		
 		
-		<section id="testimonials" class="section-ptb-80">
-            <div class="container">
-				<div class="row justify-content-center">
-					<div class="col-md-8">
-						<div class="section-heading text-center">
-							<h1 class="heading">Your dream - Our mission</h1>
-							<p>A small river name Duden flows by their place es supplies with the necessary regelialia esser paradisematic country.</p>
-						</div>
-					</div>
-				</div>
-				<div class="row mt-50">
-					<div class="col-12">
-                        <div class="owl-carousel owl-theme" data-nav-dots="true"  data-items="2" data-md-items="2" data-sm-items="1" data-xs-items="1" data-xx-items="1">
-                            <div class="item">
-                                <div class="testimonials">
-                                  <div class="testimonials-avatar"> <img alt="" src="images/testimonials/avtar-1.jpg"> </div>
-                                  <div class="testimonials-info"> Aenean pulvinar, turpis non consectetur feugiat, ipsum urna dapibus sem, sit amet vulputate mi nisl et sapien. Nam laoreet aliquam sollicitudin. Curabitur nisl ligula, gravida sit amet.</div>
-                                  <div class="author-info"> <strong>Caspian Bellevedere<span> - Lorem Ipsum</span></strong> </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="testimonials">
-                                  <div class="testimonials-avatar"> <img alt="" src="images/testimonials/avtar-2.jpg"> </div>
-                                  <div class="testimonials-info"> Aenean pulvinar, turpis non consectetur feugiat, ipsum urna dapibus sem, sit amet vulputate mi nisl et sapien. Nam laoreet aliquam sollicitudin. Curabitur nisl ligula, gravida sit amet.</div>
-                                  <div class="author-info"> <strong>Johen doe<span> - Lorem Ipsum</span></strong> </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="testimonials">
-                                  <div class="testimonials-avatar"> <img alt="" src="images/testimonials/avtar-3.jpg"> </div>
-                                  <div class="testimonials-info"> Aenean pulvinar, turpis non consectetur feugiat, ipsum urna dapibus sem, sit amet vulputate mi nisl et sapien. Nam laoreet aliquam sollicitudin. Curabitur nisl ligula, gravida sit amet.</div>
-                                  <div class="author-info"> <strong>Mical Smith<span> - Lorem Ipsum</span></strong> </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+
 		
 		<section class="section-ptb-0 bg-light">
 			<div class="row align-items-center no-gutter">
@@ -309,7 +283,7 @@ include("header.php");
 			</div>
         </section>	
 		
-		<section class="section-ptb-80" data-jarallax='{"speed": 0.0}' style="background-image: url(images/bg-img.jpg);">
+		<section class="section-ptb-80" data-jarallax='{"speed": 0.0}' style="background-color: #344687;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-3 col-sm-6 col-xs-6 sm-mb-30 text-center">
@@ -346,7 +320,7 @@ include("header.php");
         </section>
 		
 
-        <section id="blog" class="section-ptb-80" data-jarallax='{"speed": 0.0}' style="background-image: url(images/bg-img2.jpg);">
+        <!-- <section id="blog" class="section-ptb-80" data-jarallax='{"speed": 0.0}' style="background-image: url(images/bg-img2.jpg);">
             <div class="container">
 				<div class="row justify-content-center">
 					<div class="col-12">
@@ -467,59 +441,9 @@ include("header.php");
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 		
-		<section class="section-ptb-80">
-            <div class="container">
-				<div class="row">
-					<div class="col-12">
-						<div class="section-heading text-center max-width-550 mx-auto">
-							<h1 class="heading">Insurance Partners</h1>
-							<p>A small river name Duden flows by their place es supplies with the necessary regelialia esser paradisematic country.</p>
-						</div>
-					</div>
-				</div>
-				<div class="row mt-50">
-					<div class="col-12">
-			          	<div class="client clients-border column-5 text-center">
-			             	<ul class="list-unstyled">
-			               	   <li> 
-				                  <img class="img-fluid mx-auto" src="images/logo-1.png" alt="">
-				               </li>
-				               <li> 
-				                  <img class="img-fluid mx-auto" src="images/logo-2.png" alt="">
-				               </li>
-				               <li> 
-				                  <img class="img-fluid mx-auto" src="images/logo-3.png" alt="">
-				               </li>
-				               <li> 
-				                  <img class="img-fluid mx-auto" src="images/logo-4.png" alt="">
-				               </li>
-				               <li> 
-				                  <img class="img-fluid mx-auto" src="images/logo-5.png" alt="">
-				               </li>
-				               <li> 
-				                  <img class="img-fluid mx-auto" src="images/logo-6.png" alt="">
-				               </li>
-				               <li> 
-				                  <img class="img-fluid mx-auto" src="images/logo-1.png" alt="">
-				               </li>
-				               <li> 
-				                  <img class="img-fluid mx-auto" src="images/logo-2.png" alt="">
-				               </li>
-				               <li> 
-				                  <img class="img-fluid mx-auto" src="images/logo-3.png" alt="">
-				               </li>
-				               <li> 
-				                  <img class="img-fluid mx-auto" src="images/logo-4.png" alt="">
-				               </li>
-				            </ul>
-			          	</div>
-			        </div>
 
-                </div>
-            </div>
-        </section>
 		
 		<section id="contactus" class="section-ptb-0 bg-overlay-white-50" data-jarallax='{"speed": 0.0}' style="background-image: url(images/bg-img3.jpg);">
 			<div class="row no-gutters align-items-center">
