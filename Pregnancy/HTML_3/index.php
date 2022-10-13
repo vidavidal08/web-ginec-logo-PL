@@ -251,26 +251,25 @@ include("header.php");
 		
 
 		
-		<section class="section-ptb-0 bg-light">
+        <section class="section-ptb-0 bg-light">
 			<div class="row align-items-center no-gutter">
 				<div class="col-lg-6 col-12">
 					<div class="px-100 xs-px-20 xs-py-30">
 						<div class="section-heading text-left max-width-650 mb-30">
-							<h1 class="heading">We are helping people who are:</h1>
+							<h1 class="heading">Estamos ayudando a personas que son:</h1>
 						</div>
-						<p class="max-width-700 mb-20">Eiusmod tempor incididunt ut labore et dolore magna aliqua. Utas sed enim ad minim veniam, quis nostrud exercitation ipsum ullamco laboris nisi aliquip ex ea commodo consequat duis aute irure.</p>
 						
 						<ul class="list list-hand">
-                            <li> Couples Who Cannot Conceive Naturally</li>
-                            <li> Single Women Who Want to Get Pregnant</li>
-                            <li> Men With Fertility Issues</li>
-                            <li> Couples With Recurrent Pregnancy Losses</li>
-                            <li> Couples Carrying Genetically Inherited Disorders</li>
-                            <li> Cancer Patients Who Want to Preserve Their Eggs</li>
-                            <li> Women Who Want to Freeze Their Eggs</li>
+                            <li> Parejas que no pueden concebir naturalmente</li>
+                            <li> Mujeres solteras que quieren quedar embarazadas</li>
+                            <li> Hombres con problemas de fertilidad</li>
+                            <li> Parejas con pérdidas recurrentes de embarazo</li>
+                            <li> Parejas portadoras de trastornos heredados genéticamente</li>
+                            <li> Pacientes con cáncer que quieren conservar sus óvulos</li>
+                            <li> Mujeres que quieren congelar sus óvulos</li>
                         </ul>
 						
-						<a class="cs-button x-small mt-30" href="#">Book A Visit</a>
+						<a class="cs-button x-small mt-30" href="#">Reserve una visita</a>
 						
 					</div>
 				</div>
@@ -281,7 +280,7 @@ include("header.php");
 					</div>
 				</div>
 			</div>
-        </section>	
+        </section>
 		
 		<section class="section-ptb-80" data-jarallax='{"speed": 0.0}' style="background-color: #344687;">
             <div class="container">
