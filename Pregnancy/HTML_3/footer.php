@@ -1,19 +1,11 @@
         <footer class="footer bg-black pt-50">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-4 col-sm-6">
-                        <h4 class="txt-white mb-30 mt-10 text-uppercase">Subscribe</h4>
-                        <p class="mb-30">Sign Up to our Newsletter and get the latest offers.</p>
-                        <input class="form-control placeholder" type="text" placeholder="Email address" name="email1" value="">
-                        <div class="clear">
-                            <button type="submit" class="cs-button cs-button-border white mt-20 form-button"> Get notified </button>
-                        </div>
-                    </div>
                     <div class="col-lg-4 col-sm-6 xs-pt-30">
-                        <h4 class="text-white mb-30 mt-10 text-uppercase">Contact Us</h4>
+                        <h4 class="text-white mb-30 mt-10 text-uppercase">CONTÁCTENOS</h4>
                         <ul class="address">
                             <li><i class="fa fa-map-marker"></i>
-                                <p>Ubicación: 4328 White Avenue, Suite # 865 Sacramento, CA 95817 USA</p>
+                                <p>Ubicación: Corporativo San Gabriel, Alacio Pérez 928, Ignacio Zaragoza, 91910 Veracruz, Ver.</p>
                             </li>
                             <li><i class="fa fa-phone"></i>
                                 <a href="tel:7806249821">Citas: <span>229 15 53 551 </span> </a>
@@ -23,26 +15,12 @@
                     </div>
                     <div class="col-lg-2 col-sm-6 sm-mt-30">
                         <div class="footer-link footer-link-hedding">
-                            <h4 class="txt-white mb-30 mt-10 text-uppercase">Quick Link</h4>
+                            <h4 class="txt-white mb-30 mt-10 text-uppercase">Enlace rápido</h4>
                             <ul>
-                                <li><a href="#">Home</a></li>
-                                <li><a href="#">Our Services</a></li>
-                                <li><a href="#">About Us</a></li>
-                                <li><a href="#">Health Info</a></li>
-                                <li><a href="#">Appointments</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-sm-6 sm-mt-30">
-                        <div class="footer-link footer-link-hedding">
-                            <h4 class="txt-white mb-30 mt-10 text-uppercase">Information</h4>
-                            <ul>
-                                <li><a href="#">Pregnancy Care</a></li>
-                                <li><a href="#">NICU Facilities</a></li>
-                                <li><a href="#">Trisemester Care</a></li>
-                                <li><a href="#">Maternal Practise</a></li>
-                                <li><a href="#">Contact</a></li>
-                            </ul>
+                                <li><a href="#">Inicio</a></li>
+                                <li><a href="#">Servicios</a></li>
+                                <li><a href="#">Sobre nosotros</a></li>
+                                <li><a href="#">Equipo</a></li>
                         </div>
                     </div>
                 </div>

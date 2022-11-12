@@ -136,7 +136,7 @@ include("header.php");
                                     <h4><a href="team-single.html">Paquetes de maternidad</a></h4>
                                 </div>
                                 <div class="team-contact">
-                                    <p class="fs-16 mb-10"> Medicine Specialist </p>
+                                    <p class="fs-16 mb-10"> Especialista en Medicina </p>
                                 </div>
                                 <div class="social-icons social-border rounded color-hover clearfix">
                                     <ul>
@@ -159,7 +159,7 @@ include("header.php");
                                     <h4><a href="team-single.html"> Druid Wensleydale</a></h4>
                                 </div>
                                 <div class="team-contact">
-                                    <p class="fs-16 mb-10"> Medicine Specialist </p>
+                                    <p class="fs-16 mb-10"> Especialista en Medicina </p>
                                 </div>
                                 <div class="social-icons social-border rounded color-hover clearfix">
                                     <ul>
@@ -181,9 +181,7 @@ include("header.php");
                                 <div class="team-info">
                                     <h4><a href="team-single.html"> Phillip Anthropy</a></h4>
                                 </div>
-                                <div class="team-contact">
-                                    <p class="fs-16 mb-10"> Medicine Specialist </p>
-                                </div>
+                                <div class="team-contact">                                </div>
                                 <div class="social-icons social-border rounded color-hover clearfix">
                                     <ul>
                                         <li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -214,7 +212,7 @@ include("header.php");
 							
                                 <p>𝗟𝗶𝗻𝗸 𝗱𝗶𝗿𝗲𝗰𝘁𝗼 𝗮 𝘄𝗵𝗮𝘁𝘀𝗮𝗽𝗽: https://bit.ly/3pFCkn8</p>
 							</div>
-							<a class="cs-button cs-button-border x-small" href="#">Read More</a>
+							<a class="cs-button cs-button-border x-small" href="#">Leer más</a>
 						</div>
 					</div>
 					<div class="col-md-4 col-12">
@@ -228,7 +226,7 @@ include("header.php");
                                 <p>𝘾𝙞𝙩𝙖𝙨 con whatsapp: 229 15 53 551</p>
 								<p>Teléfono: 229 10 88 002</p>
 							</div>
-							<a class="cs-button cs-button-border x-small" href="#">Read More</a>
+							<a class="cs-button cs-button-border x-small" href="#">Leer más</a>
 						</div>
 					</div>
 					<div class="col-md-4 col-12">
@@ -240,7 +238,7 @@ include("header.php");
 								<h4 class="fs-16 f-w6">Teléfono de Urgencias 24 hrs.</h4>
 								<p>228 196 6734</p>
 							</div>
-							<a class="cs-button cs-button-border x-small" href="#">Read More</a>
+							<a class="cs-button cs-button-border x-small" href="#">Leer más</a>
 						</div>
 					</div>
 				</div>
@@ -289,7 +287,8 @@ include("header.php");
                         <div class="counter left-icon text-white">
                             <i class="fa fa-user white" aria-hidden="true"></i>
                             <h1 class="count f-w6 white">1021</h1>
-                            <label>HAPPY CUSTOMERS</label>
+                            <label>CLIENTES FELICES
+                            </label>
                         </div>
                     </div>
                 
@@ -297,21 +296,21 @@ include("header.php");
                         <div class="counter left-icon text-white">
                             <i class="fa fa-trophy white" aria-hidden="true"></i>
                             <h1 class="count f-w6 white">200</h1> 
-                            <label>HEALTH INSURANCE</label>
+                            <label>SEGURO DE SALUD</label>
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6 col-xs-6 sm-mb-30 text-center">
                         <div class="counter left-icon text-white">
                         <i class="fa fa-pie-chart white" aria-hidden="true"></i>
                             <h1 class="count f-w6 white">400</h1>
-                            <label>TRUST MEMBERS</label>
+                            <label>MIEMBROS DE CONFIANZA</label>
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6 col-xs-6 sm-mb-30 text-center">
                         <div class="counter left-icon text-white">
                             <i class="fa fa-heartbeat white" aria-hidden="true"></i>
                             <h1 class="count f-w6 white">600</h1>
-                            <label>SUCCESS AWARDS</label>
+                            <label>PREMIOS AL ÉXITO</label>
                         </div>
                     </div>
                 </div>
@@ -449,25 +448,25 @@ include("header.php");
 				<div class="col-lg-6">
 					<div class="p-100 xs-px-15">
 						<div class="section-heading text-left max-width-550">
-							<h1 class="heading">Need a Solution?</h1>
-							<p>For unplanned pregnancy plans Contact Us</p>
+							<h1 class="heading">NECESITAS UNA SOLUCIÓN?</h1>
+							<p>Para planes de embarazo no planeado Contáctenos</p>
 						</div>
 						<form class="mt-30" action="send_email.php" id="contact" name="contact" method="post">
 							<div class="contact-form clearfix">
 								<div class="form-field">
-									<input type="text" class="form-control" name="InputName" id="InputName" placeholder="Your Name" required>
+									<input type="text" class="form-control" name="InputName" id="InputName" placeholder="Nombre" required>
 								</div>
 								<div class="form-field">
-									<input type="email" class="form-control" name="InputEmail" id="InputEmail" placeholder="Your Email" required>
+									<input type="email" class="form-control" name="InputEmail" id="InputEmail" placeholder="Correo" required>
 								</div>
 								<div class="form-field">
-									<input type="text" class="form-control" name="InputPhone" id="InputPhone" placeholder="Phone Number" required>
+									<input type="text" class="form-control" name="InputPhone" id="InputPhone" placeholder="Número telefonico" required>
 								</div>
 								<div class="form-field textarea">
-									<textarea class="form-control input-message" placeholder="Comment*" rows="7" name="InputMessage" id="InputMessage"></textarea>
+									<textarea class="form-control input-message" placeholder="Comentario*" rows="7" name="InputMessage" id="InputMessage"></textarea>
 								</div>
 								<div class="form-field submit-button w-100">
-									<button name="submit" type="submit" class="cs-button"> Send your message </button>
+									<button name="submit" type="submit" class="cs-button"> Enviar mensaje </button>
 								</div>
 							</div>
 						</form>
