@@ -34,6 +34,8 @@
          <!-- custom CSS -->
         <link href="css/custom.css" rel="stylesheet">
         <style>
+            
+         
         .dropdown-submenu {
   position: relative;
 }
@@ -102,8 +104,8 @@
                      Doctor
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                      <a class="dropdown-item" href="#">Curriculum</a>
-                      <a class="dropdown-item" href="#">Trayectoria</a>
+                      <a class="dropdown-item" href="perfil.php">Curriculum</a>
+                      <a class="dropdown-item" href="perfil.php">Trayectoria</a>
                     </div>
                   </li>
                     
@@ -112,7 +114,7 @@
                    
                     
                <li class="nav-item ">
-                    <a class="nav-link " href="#" id="navbarDropdownMenuLink"  aria-haspopup="true" aria-expanded="false">
+                    <a class="nav-link " href="servicios.php" id="navbarDropdownMenuLink"  aria-haspopup="true" aria-expanded="false">
                      Servicios
                     </a>
                 </li>

@@ -63,7 +63,7 @@ include("header.php");
                             </div>
                             <div class="content-1-info">
                                 <h4 class="text-back f-w6">Cédula 1</h4>
-                                <p>Quisque suscipit enim non nulla ultrices tincidunt. In eu eros nec tortor dictum vehicula.</p>
+                             <!--   <p>Quisque suscipit enim non nulla ultrices tincidunt. In eu eros nec tortor dictum vehicula.</p>-->
                             </div>
                         </div>
                     </div>
@@ -74,7 +74,7 @@ include("header.php");
                             </div>
                             <div class="content-1-info">
                                 <h4 class="text-back f-w6">Diploma en especialidad en Ginecología y Obstetricia</h4>
-                                <p>Quisque suscipit enim non nulla ultrices tincidunt. In eu eros nec tortor dictum vehicula.</p>
+                            <!--    <p>Quisque suscipit enim non nulla ultrices tincidunt. In eu eros nec tortor dictum vehicula.</p>-->
                             </div>
                         </div>
                     </div>
@@ -85,43 +85,13 @@ include("header.php");
                             </div>
                             <div class="content-1-info">
                                 <h4 class="text-back f-w6">Certificado como Especialista en Ginecología y Obstetricia</h4>
-                                <p>Quisque suscipit enim non nulla ultrices tincidunt. In eu eros nec tortor dictum vehicula.</p>
+                         <!--       <p>Quisque suscipit enim non nulla ultrices tincidunt. In eu eros nec tortor dictum vehicula.</p>-->
                             </div>
                         </div>
                     </div>
-					<div class="col-md-4 col-12">
-                        <div class="content-1 mb-30">
-                            <div class="content-1-image mb-20">
-                                <img alt="" src="images/1-580x400.jpg" class="img-fluid">
-                            </div>
-                            <div class="content-1-info">
-                                <h4 class="text-back f-w6">In Vitro Fertilization</h4>
-                                <p>Quisque suscipit enim non nulla ultrices tincidunt. In eu eros nec tortor dictum vehicula.</p>
-                            </div>
-                        </div>
-                    </div>
-					<div class="col-md-4 col-12">
-                        <div class="content-1 mb-30">
-                            <div class="content-1-image mb-20">
-                                <img alt="" src="images/6-580x400.jpg" class="img-fluid">
-                            </div>
-                            <div class="content-1-info">
-                                <h4 class="text-back f-w6">Prenatal Ultrasound</h4>
-                                <p>Quisque suscipit enim non nulla ultrices tincidunt. In eu eros nec tortor dictum vehicula.</p>
-                            </div>
-                        </div>
-                    </div>
-					<div class="col-md-4 col-12">
-                        <div class="content-1 mb-30">
-                            <div class="content-1-image mb-20">
-                                <img alt="" src="images/3-580x400.jpg" class="img-fluid">
-                            </div>
-                            <div class="content-1-info">
-                                <h4 class="text-back f-w6">High Risk Pregnancy Care</h4>
-                                <p>Quisque suscipit enim non nulla ultrices tincidunt. In eu eros nec tortor dictum vehicula.</p>
-                            </div>
-                        </div>
-                    </div>
+					
+					
+					
                 </div>
             </div>
         </section>
